@@ -1,0 +1,21 @@
+# Do not upload large genomic data
+data/*.vcf
+data/*.vcf.gz
+data/*.tbi
+data/*.csi
+data/*.bcf
+
+# Do not upload PLINK/GWAS output files
+data/*.bed
+data/*.bim
+data/*.fam
+results/
+logs/
+
+# R temporary files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Mac files
+.DS_Store
