@@ -10,7 +10,9 @@ data/*.bed
 data/*.bim
 data/*.fam
 results/
-logs/
+# Ignore log folder contents, but keep text logs (small, needed to review output)
+logs/*
+!logs/*.txt
 
 # R temporary files
 .Rhistory
