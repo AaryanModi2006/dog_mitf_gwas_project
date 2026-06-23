@@ -8,7 +8,7 @@
 set -u  # stop on an unset variable — catches typos in filenames
 
 # ---- EDIT THIS LINE: path to your VCF on the server ----
-VCF=data/your_dogs.vcf.gz
+VCF=/media/caronelab/6TB_drive/Dog_Genome_Project/dogs.vcf
 # --------------------------------------------------------
 
 echo "### Inspecting: $VCF"; echo
