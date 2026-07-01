@@ -1,0 +1,723 @@
+VCF_ID	Breed	Sex	white_head	white_chest
+AfghanHound01	Afghan Hound	M	1	2
+AfghanHound03	Afghan Hound	F	NA	NA
+AfghanHound04	Afghan Hound	M	1	2
+AiredaleTerrier01	Airedale Terrier	M	1	1
+AiredaleTerrier02	Airedale Terrier	F	1	1
+AiredaleTerrier05	Airedale Terrier	M	1	1
+TA001	Airedale Terrier	M	1	1
+AlaskanHusky01	Alaskan Husky	M	2	2
+AlaskanHusky02	Alaskan Husky	M	2	2
+AM007	Alaskan Malamute	M	NA	2
+AlaskanMalamute01	Alaskan Malamute	F	NA	2
+AlaskanMalamute02	Alaskan Malamute	F	NA	2
+Bern_AlpineDachsbracke	Alpine Dachsbracke	M	1	1
+AmericanHairlessTerrier01	American Hairless Terrier	F	NA	2
+AndeanFox01	Andean Fox	F	NA	NA
+AC023	Australian Cattle Dog	M	2	1
+AustralianCattleDog01	Australian Cattle Dog	F	2	1
+AustralianCattleDog02	Australian Cattle Dog	F	NA	NA
+AustralianCattleDog03	Australian Cattle Dog	F	2	1
+AR001	Australian Terrier	M	1	1
+CFA.118003	Basenji	M	1	2
+Basenji01	Basenji	M	NA	NA
+Basenji02	Basenji	F	1	2
+Basenji03	Basenji	F	1	2
+BG064	Bavarian Hound (Bayerischer Gebirgsschweisshund)	M	1	1
+CFA.117995	Beagle	M	2	2
+Beagle01	Beagle	M	2	2
+Beagle02	Beagle	F	2	2
+Beagle03	Beagle	F	NA	NA
+Beagle04	Beagle	F	2	2
+BeardedCollie01	Bearded Collie	F	2	2
+BeardedCollie02	Bearded Collie	M	2	2
+BeardedCollie03	Bearded Collie	M	2	2
+BeardedCollie04	Bearded Collie	F	2	2
+BeardedCollie05	Bearded Collie	M	NA	NA
+BeardedCollie06	Bearded Collie	M	NA	NA
+BeardedCollie07	Bearded Collie	M	NA	NA
+BelgianMalinois01	Belgian Malinois	F	NA	NA
+BelgianMalinois02	Belgian Malinois	F	NA	NA
+BelgianMalinois03	Belgian Malinois	F	NA	NA
+MA0163	Belgian Malinois	F	1	1
+MA142	Belgian Malinois	M	1	1
+BelgianSheepdog01	Belgian Sheepdog	F	1	1
+BelgianSheepdog02	Belgian Sheepdog	M	NA	NA
+BelgianSheepdog03	Belgian Sheepdog	F	1	1
+BelgianSheepdog04	Belgian Sheepdog	F	NA	NA
+BelgianSheepdog05	Belgian Sheepdog	M	1	1
+BelgianSheepdog06	Belgian Sheepdog	M	1	1
+BelgianSheepdog07	Belgian Sheepdog	F	NA	NA
+BelgianTervuren01	Belgian Tervuren	F	1	NA
+BelgianTervuren02	Belgian Tervuren	M	NA	NA
+BelgianTervuren03	Belgian Tervuren	F	NA	NA
+BelgianTervuren05	Belgian Tervuren	F	NA	NA
+BelgianTervuren06	Belgian Tervuren	M	1	NA
+BelgianTervuren07	Belgian Tervuren	F	NA	NA
+BelgianTervuren08	Belgian Tervuren	M	1	NA
+BelgianTervuren09	Belgian Tervuren	M	NA	NA
+BelgianTervuren10	Belgian Tervuren	F	NA	NA
+BelgianTervuren11	Belgian Tervuren	F	1	NA
+BelgianTervuren04	Belgian Tervuren - See Other_Information	M	NA	NA
+BergerBlancSuisse01	Berger Blanc Suisse	M	2	2
+CFA.109670	Berger Picard	M	1	2
+BergerPicard01	Berger Picard	F	1	2
+BergerPicard02	Berger Picard	F	1	2
+BergerPicard03	Berger Picard	F	1	2
+BerneseMountainDog01	Bernese Mountain Dog	F	2	2
+BerneseMountainDog02	Bernese Mountain Dog	F	2	2
+BerneseMountainDog03	Bernese Mountain Dog	M	NA	NA
+BerneseMountainDog04	Bernese Mountain Dog	M	NA	NA
+BerneseMountainDog05	Bernese Mountain Dog	F	NA	NA
+BerneseMountainDog06	Bernese Mountain Dog	F	NA	NA
+BerneseMountainDog07	Bernese Mountain Dog	F	NA	NA
+BerneseMountainDog08	Bernese Mountain Dog	F	NA	NA
+BerneseMountainDog09	Bernese Mountain Dog	M	NA	NA
+BerneseMountainDog10	Bernese Mountain Dog	F	NA	NA
+BerneseMountainDog11	Bernese Mountain Dog	M	2	2
+BerneseMountainDog12	Bernese Mountain Dog	F	NA	NA
+BerneseMountainDog13	Bernese Mountain Dog	F	NA	NA
+BerneseMountainDog14	Bernese Mountain Dog	F	NA	NA
+BerneseMountainDog15	Bernese Mountain Dog	M	NA	NA
+BerneseMountainDog16	Bernese Mountain Dog	F	NA	NA
+BerneseMountainDog17	Bernese Mountain Dog	F	NA	NA
+BerneseMountainDog18	Bernese Mountain Dog	F	NA	NA
+Coonhound01	Black and Tan Coonhound	F	1	1
+BlackRussianTerrier01	Black Russian Terrier	F	1	1
+Bloodhound01	Bloodhound	F	1	1
+BorderCollie06	Border Collie	F	NA	NA
+BC0480	Border Collie	F	2	2
+Helsinki_BC1028	Border Collie	M	2	2
+Helsinki_BC1029	Border Collie	F	NA	NA
+Helsinki_BC222	Border Collie	M	NA	NA
+Helsinki_BC387	Border Collie	M	NA	NA
+BC485	Border Collie	M	NA	NA
+BC518	Border Collie	F	NA	NA
+Helsinki_BC578	Border Collie	M	NA	NA
+BC597	Border Collie	M	NA	NA
+BorderCollie01	Border Collie	F	NA	NA
+BorderCollie02	Border Collie	M	NA	NA
+BorderCollie03	Border Collie	M	2	2
+BorderCollie07	Border Collie	F	NA	NA
+BorderCollie08	Border Collie	F	2	2
+CFA.107838	Border Terrier	M	1	NA
+BorderTerrier01	Border Terrier	F	1	NA
+BorderTerrier02	Border Terrier	F	1	NA
+BorderTerrier03	Border Terrier	M	1	NA
+Borzoi01	Borzoi	F	2	2
+BostonTerrier01	Boston Terrier	F	2	2
+BouvierDesFlandres01	Bouvier des Flandres	F	1	1
+CFA.107836	Bouvier des Flandres	M	1	1
+BouvierDesFlandres02	Bouvier des Flandres	M	1	1
+Boxer01	Boxer	F	2	2
+BrittanySpaniel01	Brittany	M	2	2
+BT1021	Bull Terrier	F	2	2
+BullTerrier01	Bull Terrier	F	2	2
+BullTerrier02	Bull Terrier	M	NA	NA
+BullTerrier03	Bull Terrier	M	2	2
+BullTerrier04	Bull Terrier	M	NA	NA
+BullTerrier05	Bull Terrier	M	2	2
+BullTerrier06	Bull Terrier	F	NA	NA
+BullTerrier07	Bull Terrier	M	NA	NA
+BullTerrier08	Bull Terrier	M	NA	NA
+BT007	Miniature Bull Terrier 	M	2	2
+Bulldog01	Bulldog	F	2	2
+BU002	Bullmastiff	M	1	1
+CE073	Cairn Terrier	F	1	NA
+CaneCorso01	Cane Corso	F	1	2
+CarolinaDog01	Carolina Dog	F	NA	NA
+CaucasianOvcharka01	Caucasian Ovcharka	F	NA	2
+CK006	Cavalier King Charles Spaniel	F	2	2
+CK023	Cavalier King Charles Spaniel	F	2	2
+CFA.109671	Chesapeake Bay Retriever	M	NA	NA
+Chihuahua01	Chihuahua	F	NA	2
+Chihuahua03	Chihuahua	M	NA	2
+Chihuahua05	Chihuahua	M	NA	2
+ChineseCrested01	Chinese Crested	M	2	NA
+ChineseCrested05	Chinese Crested	M	2	NA
+ChineseIndigenousDog01	Chinese Indigenous Dog	F	NA	NA
+ChineseIndigenousDog02	Chinese Indigenous Dog	M	NA	NA
+ChineseIndigenousDog03	Chinese Indigenous Dog	F	NA	NA
+ChineseIndigenousDog04	Chinese Indigenous Dog	F	NA	NA
+ChineseIndigenousDog05	Chinese Indigenous Dog	M	NA	NA
+ChineseIndigenousDog06	Chinese Indigenous Dog	M	NA	NA
+ChineseIndigenousDog07	Chinese Indigenous Dog	F	NA	NA
+ChineseIndigenousDog08	Chinese Indigenous Dog	M	NA	NA
+ChineseIndigenousDog09	Chinese Indigenous Dog	M	NA	NA
+ChineseIndigenousDog10	Chinese Indigenous Dog	F	NA	NA
+ChineseIndigenousDog11	Chinese Indigenous Dog	F	NA	NA
+ChineseIndigenousDog12	Chinese Indigenous Dog	M	NA	NA
+ChineseIndigenousDog13	Chinese Indigenous Dog	F	NA	NA
+ChineseIndigenousDog14	Chinese Indigenous Dog	M	NA	NA
+ChineseIndigenousDog15	Chinese Indigenous Dog	M	NA	NA
+NGSDOG024	Chinese Shar-Pei	M	1	1
+NGSDOG025	Chinese Shar-Pei	M	1	1
+Chinook01	Chinook	F	NA	2
+ChongqingDog01	Chongqing Dog	M	NA	NA
+ChowChow01	Chow Chow	F	NA	NA
+ChowChow02	Chow Chow	F	1	NA
+ChowChow03	Chow Chow	M	NA	NA
+CW011	Chow Chow	F	1	NA
+ClumberSpaniel01	Clumber Spaniel	M	2	2
+CockerSpanielAmerican01	Cocker Spaniel (American)	F	NA	NA
+CockerSpanielAmerican02	Cocker Spaniel (American)	M	NA	NA
+CockerSpanielAmerican03	Cocker Spaniel (American)	M	NA	NA
+CockerSpanielAmerican04	Cocker Spaniel (American)	F	NA	NA
+CockerSpanielAmerican05	Cocker Spaniel (American)	F	NA	NA
+CockerSpanielAmerican06	Cocker Spaniel (American)	M	NA	NA
+Coyote01	Coyote	M	NA	NA
+Coyote02	Coyote	M	NA	NA
+Coyote03	Coyote	M	NA	NA
+CR039	Curly-Coated Retriever	F	1	1
+CFA.107835	Dachshund	M	1	1
+CFA.109668	Dachshund	M	1	1
+Dachshund01	Dachshund	M	NA	NA
+DH0117	Dachshund	M	NA	NA
+DH126	Dachshund	F	1	1
+DAL162K1	Dalmatian	M	2	NA
+Dalmatian01	Dalmatian	F	2	NA
+Dhole01	Dhole	F	NA	NA
+Dingo01	Dingo	M	NA	NA
+DO242	Doberman Pinscher	F	1	1
+Doberman01	Doberman Pinscher	F	1	1
+Doberman02	Doberman Pinscher	M	1	1
+Doberman03	Doberman Pinscher	F	NA	NA
+Doberman04	Doberman Pinscher	M	NA	NA
+EastSiberianLaika01	East Siberian Laika	F	NA	NA
+Elo01	Elo	M	NA	NA
+CP003	English Cocker Spaniel	M	NA	NA
+CockerSpanielEnglish01	English Cocker Spaniel	M	NA	NA
+CockerSpanielEnglish02	English Cocker Spaniel	M	NA	NA
+CockerSpanielEnglish03	English Cocker Spaniel	F	NA	NA
+CockerSpanielEnglish04	English Cocker Spaniel	M	NA	NA
+CockerSpanielEnglish05	English Cocker Spaniel	F	NA	NA
+CFA.105990	English Setter	F	NA	2
+CFA.117996	English Setter	M	NA	2
+EnglishSetter01	English Setter	M	NA	2
+EnglishSpringerSpaniel01	English Springer Spaniel	M	2	2
+EnglishSpringerSpaniel03	English Springer Spaniel	M	2	2
+EntlebucherSennenhund01	Entlebucher Sennenhund	M	NA	NA
+EntlebucherSennenhund02	Entlebucher Sennenhund	M	NA	NA
+EntlebucherSennenhund03	Entlebucher Sennenhund	M	NA	NA
+EntlebucherSennenhund04	Entlebucher Sennenhund	M	NA	NA
+EntlebucherSennenhund05	Entlebucher Sennenhund	M	NA	NA
+EntlebucherSennenhund06	Entlebucher Sennenhund	M	2	2
+EntlebucherSennenhund07	Entlebucher Sennenhund	M	NA	NA
+EntlebucherSennenhund08	Entlebucher Sennenhund	M	2	2
+Eurasier01	Eurasier	F	1	NA
+Eurasier02	Eurasier	M	1	NA
+CFA.107833	Field Spaniel	M	NA	NA
+FinnishLapphund01	Finnish Lapphund	M	1	NA
+FlatcoatedRetriever01	Flat-Coated Retriever	F	1	1
+FlatcoatedRetriever02	Flat-Coated Retriever	F	1	1
+FlatcoatedRetriever03	Flat-Coated Retriever	F	NA	NA
+FonniDog01	Fonni's Dog	F	NA	NA
+FB065	French Bulldog	M	NA	2
+FrenchBulldog01	French Bulldog	M	NA	2
+JT007	German Hunting Terrier	M	NA	NA
+DS043	German Shepherd Dog	F	1	1
+DS051	German Shepherd Dog	F	1	1
+DS053	German Shepherd Dog	M	1	1
+GermanShepherd01	German Shepherd Dog	F	NA	NA
+GermanShepherd02	German Shepherd Dog	F	NA	NA
+GermanShepherd03	German Shepherd Dog	M	NA	NA
+GermanShepherd04	German Shepherd Dog	F	NA	NA
+GermanShepherd05	German Shepherd Dog	F	NA	NA
+GermanShepherd06	German Shepherd Dog	F	NA	NA
+GermanShepherd07	German Shepherd Dog	M	NA	NA
+GermanShepherd08	German Shepherd Dog	M	NA	NA
+GermanShepherd09	German Shepherd Dog	M	NA	NA
+GermanShepherd10	German Shepherd Dog	M	NA	NA
+GermanShepherd11	German Shepherd Dog	M	NA	NA
+GermanShepherd12	German Shepherd Dog	M	1	1
+GermanWirehairedPointer01	German Wirehaired Pointer	F	2	2
+GoldenJackal01	Golden Jackal	F	NA	NA
+140447_S11	Golden Retriever	M	NA	NA
+164612_S9	Golden Retriever	M	NA	NA
+172384_S14	Golden Retriever	F	NA	NA
+173006_S10	Golden Retriever	F	NA	NA
+175885_S12	Golden Retriever	F	NA	NA
+91072_S13	Golden Retriever	F	NA	NA
+GoldenRetriever01	Golden Retriever	M	NA	NA
+GoldenRetriever02	Golden Retriever	M	NA	NA
+GoldenRetriever03	Golden Retriever	M	NA	NA
+GoldenRetriever04	Golden Retriever	M	NA	NA
+GoldenRetriever05	Golden Retriever	M	NA	NA
+GoldenRetriever06	Golden Retriever	M	NA	NA
+GoldenRetriever07	Golden Retriever	M	NA	NA
+GoldenRetriever08	Golden Retriever	F	NA	NA
+GoldenRetriever09	Golden Retriever	F	NA	NA
+GoldenRetriever10	Golden Retriever	F	NA	NA
+GoldenRetriever11	Golden Retriever	M	NA	NA
+GoldenRetriever12	Golden Retriever	M	NA	NA
+GoldenRetriever13	Golden Retriever	M	NA	NA
+GR0892	Golden Retriever	M	NA	NA
+CFA.109672	Gordon Setter	F	1	1
+GordonSetter01	Gordon Setter	F	1	1
+DD116	Great Dane	M	NA	NA
+CFA.107837	Great Dane	M	NA	NA
+CFA.117997	Great Dane	F	NA	NA
+GreatDane01	Great Dane	F	NA	NA
+GreatDane02	Great Dane	F	NA	NA
+GreatPyrenees01	Great Pyrenees	M	NA	2
+CFA.107841	Greater Swiss Mountain Dog	M	2	2
+GreaterSwissMountainDog01	Greater Swiss Mountain Dog	M	2	2
+GreenlandDog01	Greenland Dog	F	NA	NA
+Wolf01	Grey Wolf	F	NA	NA
+Wolf02	Grey Wolf	F	NA	NA
+Wolf03	Grey Wolf	F	NA	NA
+Wolf04	Grey Wolf	F	NA	NA
+Wolf05	Grey Wolf	F	NA	NA
+Wolf06	Grey Wolf	F	NA	NA
+Wolf07	Grey Wolf	F	NA	NA
+Wolf08	Grey Wolf	M	NA	NA
+Wolf18	Grey Wolf	M	NA	NA
+Wolf19	Grey Wolf	M	NA	NA
+Wolf20	Grey Wolf	F	NA	NA
+Wolf21	Grey Wolf	M	NA	NA
+Wolf22	Grey Wolf	F	NA	NA
+Wolf23	Grey Wolf	F	NA	NA
+Wolf24	Grey Wolf	F	NA	NA
+Wolf27	Grey Wolf	F	NA	NA
+Wolf28	Grey Wolf	F	NA	NA
+Wolf29	Grey Wolf	M	NA	NA
+Wolf30	Grey Wolf	M	NA	NA
+Wolf31	Grey Wolf	F	NA	NA
+Wolf32	Grey Wolf	M	NA	NA
+Wolf33	Grey Wolf	M	NA	NA
+Wolf34	Grey Wolf	M	NA	NA
+Wolf35	Grey Wolf	F	NA	NA
+Wolf36	Grey Wolf	M	NA	NA
+Wolf37	Grey Wolf	M	NA	NA
+Wolf38	Grey Wolf	M	NA	NA
+WolfTibetan01	Grey Wolf (Canis Lupus chanco)	M	NA	NA
+WolfTibetan02	Grey Wolf (Canis Lupus chanco)	F	NA	NA
+WolfTibetan03	Grey Wolf (Canis Lupus chanco)	F	NA	NA
+WolfTibetan04	Grey Wolf (Canis Lupus chanco)	M	NA	NA
+WolfTibetan05	Grey Wolf (Canis Lupus chanco)	M	NA	NA
+WolfTibetan06	Grey Wolf (Canis Lupus chanco)	M	NA	NA
+WolfTibetan07	Grey Wolf (Canis Lupus chanco)	F	NA	NA
+WolfTibetan08	Grey Wolf (Canis Lupus chanco)	M	NA	NA
+Greyhound01	Greyhound	F	NA	NA
+Greyhound02	Greyhound	M	NA	NA
+Greyhound03	Greyhound	M	NA	NA
+Greyhound04	Greyhound	M	NA	NA
+Greyhound05	Greyhound	F	NA	NA
+Greyhound06	Greyhound	M	NA	NA
+Greyhound07	Greyhound	F	NA	NA
+Greyhound08	Greyhound	F	NA	NA
+GY432	Greyhound	F	NA	NA
+GS104	Grossspitz	F	NA	NA
+Heideterrier01	Heideterrier	F	1	1
+HW1706	Hovawart	F	1	NA
+Wolf39	Iberian Wolf (Canis lupus signatus)	F	NA	NA
+IrishSetter01	Irish Setter	F	1	1
+CFA.117998	Irish Terrier	M	1	1
+IrishTerrier01	Irish Terrier	M	1	1
+IrishWaterSpaniel01	Irish Water Spaniel	F	1	1
+IrishWaterSpaniel02	Irish Water Spaniel	M	1	1
+IrishWaterSpaniel03	Irish Water Spaniel	F	1	1
+IrishWolfhound01	Irish Wolfhound	F	NA	NA
+IstrianShorthairedHound01	Istrian Shorthaired Hound	F	NA	NA
+ItalianGreyhound01	Italian Greyhound	M	NA	NA
+ItalianGreyhound02	Italian Greyhound	F	NA	NA
+JackRussellTerrier02	Jack Russell Terrier	M	2	2
+JackRussellTerrier03	Jack Russell Terrier	F	2	2
+JackRussellTerrier04	Jack Russell Terrier	F	2	2
+JackRussellTerrier05	Jack Russell Terrier	M	2	2
+Jamthund01	Jamthund	M	1	NA
+Jindo01	Jindo	M	NA	2
+Keeshond01	Keeshond	F	NA	NA
+KerryBlueTerrier02	Kerry Blue Terrier	F	1	1
+Komondor01	Komondor	M	2	2
+Kromfohrlander01	Kromfohrländer	M	2	2
+VillDog_China10	Kunming Dog	F	NA	NA
+VillDog_China11	Kunming Dog	F	NA	NA
+VillDog_China12	Kunming Dog	F	NA	NA
+VillDog_China13	Kunming Dog	F	NA	NA
+VillDog_China14	Kunming Dog	F	NA	NA
+VillDog_China15	Kunming Dog	M	NA	NA
+VillDog_China16	Kunming Dog	M	NA	NA
+LabradorRetriever13	Labrador Retriever	F	NA	NA
+CFA.117999	Labrador Retriever	M	NA	NA
+149323_S6	Labrador Retriever	F	NA	NA
+152721_S5	Labrador Retriever	F	NA	NA
+160822_S4	Labrador Retriever	F	NA	NA
+172281_S2	Labrador Retriever	M	NA	NA
+172724_S8	Labrador Retriever	M	NA	NA
+173486_S3	Labrador Retriever	M	NA	NA
+87125_S1	Labrador Retriever	M	NA	NA
+91317_S7	Labrador Retriever	M	NA	NA
+LA2443	Labrador Retriever	M	NA	NA
+LabradorRetriever01	Labrador Retriever	M	NA	NA
+LabradorRetriever02	Labrador Retriever	M	NA	NA
+LabradorRetriever03	Labrador Retriever	M	NA	NA
+LabradorRetriever04	Labrador Retriever	F	NA	NA
+LabradorRetriever05	Labrador Retriever	M	NA	NA
+LabradorRetriever06	Labrador Retriever	M	NA	NA
+LabradorRetriever07	Labrador Retriever	F	NA	NA
+LabradorRetriever08	Labrador Retriever	M	NA	NA
+LabradorRetriever10	Labrador Retriever	F	NA	NA
+LabradorRetriever12	Labrador Retriever	M	NA	NA
+LR04989	Labrador Retriever	M	NA	NA
+PER00167	Labrador Retriever	M	NA	NA
+PER00177	Labrador Retriever	M	NA	NA
+LagottoRomagnolo01	Lagotto Romagnolo	M	NA	NA
+LagottoRomagnolo02	Lagotto Romagnolo	M	1	1
+LagottoRomagnolo03	Lagotto Romagnolo	F	1	1
+LagottoRomagnolo04	Lagotto Romagnolo	M	NA	NA
+LR1030	Lagotto Romagnolo	M	1	1
+Landseer01	Landseer	M	2	2
+LapponianHerder01	Lapponian Herder	M	1	NA
+Leonberger01	Leonberger	F	1	1
+Lowchen01	Lowchen	M	NA	2
+EnglishMastiff01	Mastiff (English)	F	1	1
+EnglishMastiff02	Mastiff (English)	M	1	1
+BAN00024	Miniature Poodle	M	NA	NA
+MiniaturePoodle01	Miniature Poodle	F	NA	NA
+MS04563	Miniature Schnauzer	F	NA	NA
+MS04593	Miniature Schnauzer	F	1	2
+MiniatureSchnauzer01	Miniature Schnauzer	F	NA	NA
+C3549	MIX: American Cocker Spaniel and Beagle	F	NA	NA
+C750	MIX: American Cocker Spaniel and Beagle	F	NA	NA
+C783	MIX: American Cocker Spaniel and Beagle	F	NA	NA
+CFA.118000	MIX: Dachsund	M	NA	NA
+GR1078	MIX: Golden Retriever	F	NA	NA
+MIX_KerryBlueTerrier_Beagle01	MIX: Kerry Blue Terrier and Beagle	M	NA	NA
+LA2382	MIX: Labrador Retriever	F	NA	NA
+A168	MIX: Miniature Schnauzer and Beagle	F	NA	NA
+MI016	MIX: Mixed Breed	F	NA	NA
+MixedBreed07	MIX: Siberian Husky	F	NA	NA
+MixedBreed06	MIX: Tibetan Mastiff	M	NA	NA
+NewGuineaSingingDog01	New Guinea Singing Dog	M	NA	NA
+NGSD1	New Guinea Singing Dog	M	NA	NA
+NGSD2	New Guinea Singing Dog	M	NA	NA
+NGSD3	New Guinea Singing Dog	M	NA	NA
+IndigenousDogNigeria01	Nigerian Indigenous Dog	F	NA	NA
+IndigenousDogNigeria02	Nigerian Indigenous Dog	F	NA	NA
+IndigenousDogNigeria03	Nigerian Indigenous Dog	M	NA	NA
+IndigenousDogNigeria04	Nigerian Indigenous Dog	M	NA	NA
+NorwegianElkhound01	Norwegian Elkhound	M	1	1
+NorwegianElkhound02	Norwegian Elkhound	F	1	1
+NorwegianLundehund01	Norwegian Lundehund	M	NA	2
+NorwegianLundehund02	Norwegian Lundehund	F	NA	2
+NorwegianLundehund03	Norwegian Lundehund	F	NA	2
+NW255	Norwich Terrier	M	1	1
+NW062	Norwich Terrier	F	1	1
+NW152	Norwich Terrier	F	1	1
+NW206	Norwich Terrier	F	NA	NA
+NovaScotiaDuckTollingRetriever01	Nova Scotia Duck Tolling Retriever	M	NA	2
+Pekingese01	Pekingese	F	1	NA
+PembrokeWelshCorgi01	Pembroke Welsh Corgi	M	NA	2
+PembrokeWelshCorgi02	Pembroke Welsh Corgi	F	NA	2
+PembrokeWelshCorgi03	Pembroke Welsh Corgi	F	NA	2
+PeruvianHairless01	Peruvian Inca Orchid	M	1	1
+PetitBassetGriffonVendeen01	Petit Basset Griffon Vendeen	M	2	2
+EnglishPointer01	Pointer (English)	M	2	2
+EnglishPointer02	Pointer (English)	F	2	2
+Pomeranian01	Pomeranian	M	1	1
+PL116	Poodle unspecified variety	F	NA	NA
+PortuguesePodengo01	Portuguese Podengo	M	NA	NA
+PortugueseWaterDog01	Portuguese Water Dog	F	NA	1
+PortugueseWaterDog02	Portuguese Water Dog	F	NA	1
+PortugueseWaterDog03	Portuguese Water Dog	F	NA	NA
+PortugueseWaterDog04	Portuguese Water Dog	F	NA	NA
+PortugueseWaterDog05	Portuguese Water Dog	M	NA	1
+PortugueseWaterDog06	Portuguese Water Dog	F	NA	NA
+PortugueseWaterDog07	Portuguese Water Dog	M	NA	NA
+PortugueseWaterDog08	Portuguese Water Dog	M	NA	NA
+PortugueseWaterDog09	Portuguese Water Dog	M	NA	1
+PortugueseWaterDog10	Portuguese Water Dog	M	NA	NA
+PortugueseWaterDog11	Portuguese Water Dog	F	NA	NA
+Pug01	Pug	M	NA	NA
+Pug02	Pug	M	NA	NA
+Pug03	Pug	M	NA	NA
+Pug04	Pug	F	NA	NA
+Pug05	Pug	M	1	NA
+QingchuanDog01	Qingchuan Dog	M	NA	NA
+Wolf25	Red Wolf	F	NA	NA
+Wolf26	Red Wolf	F	NA	NA
+RhodesianRidgeback01	Rhodesian Ridgeback	F	NA	NA
+RhodesianRidgeback02	Rhodesian Ridgeback	F	NA	NA
+RhodesianRidgeback03	Rhodesian Ridgeback	F	NA	NA
+RhodesianRidgeback04	Rhodesian Ridgeback	F	1	NA
+RR098	Rhodesian Ridgeback	F	1	NA
+165414_S20	Rottweiler	F	NA	NA
+168979_S18	Rottweiler	M	1	1
+171515_S19	Rottweiler	M	1	1
+AND10232010_S17	Rottweiler	F	NA	NA
+LEW02122013_S15	Rottweiler	F	NA	NA
+Rottweiler01	Rottweiler	F	1	1
+Rottweiler02	Rottweiler	M	NA	NA
+Rottweiler03	Rottweiler	F	NA	NA
+Rottweiler04	Rottweiler	F	1	1
+WS42321902_S16	Rottweiler	F	NA	NA
+SaintBernard01	Saint Bernard	F	2	2
+SaintBernard02	Saint Bernard	M	2	2
+Saluki01	Saluki	F	NA	NA
+Saluki02	Saluki	M	NA	NA
+Saluki03	Saluki	M	NA	NA
+Samoyed01	Samoyed	F	NA	2
+Samoyed02	Samoyed	F	NA	2
+ScottishDeerhound01	Scottish Deerhound	M	NA	NA
+ScottishTerrier01	Scottish Terrier	F	1	1
+ScottishTerrier02	Scottish Terrier	M	1	1
+ScottishTerrier03	Scottish Terrier	F	1	1
+ScottishTerrier04	Scottish Terrier	F	NA	NA
+SS004	Shetland Sheepdog	F	1	2
+ShetlandSheepdog01	Shetland Sheepdog	F	1	2
+ShetlandSheepdog02	Shetland Sheepdog	M	1	2
+CFA.107839	Shiba Inu	F	1	2
+ShibaInu01	Shiba Inu	M	1	2
+PER00751	Shih Tzu	M	NA	2
+SiberianHusky01	Siberian Husky	F	NA	1
+SiberianHusky02	Siberian Husky	M	NA	1
+SiberianHusky04	Siberian Husky	M	NA	NA
+SY046	Siberian Husky	M	NA	1
+Sloughi02	Sloughi	M	1	1
+Sloughi01	Sloughi	F	1	1
+Sloughi03	Sloughi	M	NA	NA
+Sloughi04	Sloughi	M	1	1
+SoftCoatedWheatenTerrier01	Soft Coated Wheaten Terrier	F	NA	1
+SoftCoatedWheatenTerrier02	Soft Coated Wheaten Terrier	M	NA	1
+SoftCoatedWheatenTerrier03	Soft Coated Wheaten Terrier	F	NA	1
+SoftCoatedWheatenTerrier04	Soft Coated Wheaten Terrier	F	NA	NA
+SpanishGalgo01	Spanish Galgo	F	NA	NA
+SpanishWaterDog01	Spanish Water Dog	M	NA	2
+CFA.109669	Spinone Italiano	F	NA	NA
+CFA.107842	Standard Poodle	F	1	1
+StandardPoodle01	Standard Poodle	F	1	1
+StandardPoodle02	Standard Poodle	M	1	1
+StandardPoodle03	Standard Poodle	M	1	1
+CFA.107834	Standard Schnauzer	M	1	NA
+CFA.118001	Standard Schnauzer	M	1	NA
+CFA.118002	Standard Schnauzer	F	1	NA
+StandardSchnauzer01	Standard Schnauzer	M	NA	NA
+SwedishLapphund01	Swedish Lapphund	F	1	1
+TibetanMastiff01	Tibetan Mastiff	M	NA	NA
+TibetanMastiff02	Tibetan Mastiff - China	M	NA	NA
+TibetanMastiff03	Tibetan Mastiff - China	F	NA	NA
+TibetanMastiff04	Tibetan Mastiff - China	F	NA	NA
+TibetanMastiff05	Tibetan Mastiff - China	F	NA	NA
+TibetanMastiff06	Tibetan Mastiff - China	M	NA	NA
+TibetanMastiff07	Tibetan Mastiff - China	M	NA	NA
+TibetanMastiff08	Tibetan Mastiff - China	F	NA	NA
+TibetanMastiff09	Tibetan Mastiff - China	F	NA	NA
+TibetanMastiff10	Tibetan Mastiff - China	F	NA	NA
+TibetanMastiff11	Tibetan Mastiff - China	F	NA	NA
+TibetanTerrier01	Tibetan Terrier	M	NA	2
+TibetanTerrier02	Tibetan Terrier	M	NA	2
+Tornjak01	Tornjak	M	NA	NA
+ToyPoodle01	Toy Poodle	F	1	1
+VillDog_China17	UNKNOWN - Entered into SRA as Kunming Dog but clusters with Belgian Malinois	M	NA	NA
+VillDog_China18	UNKNOWN - Entered into SRA as Kunming Dog but clusters with Belgian Malinois	M	NA	NA
+VillDog_China19	UNKNOWN - Entered into SRA as Kunming Dog but clusters with Belgian Malinois	M	NA	NA
+UnknownBreed09	UNKNOWN - Marked American Staffordshire Terrier and clusters with Staffordshire Bull Terriers - Possible Mixed Breed	M	NA	NA
+KunmingDog01	UNKNOWN - Marked as Kunming Dog but clusters outside Kunming Dog and German Shepherd Dog clade	M	NA	NA
+406434N	UNKNOWN - Marked Unknown breed but clusters with Shih Tzu	F	NA	NA
+BH003	UNKNOWN - Marked Basset Hound but doesn't cluster completely, possible mixed breed	F	NA	NA
+JR0034	UNKNOWN - Marked Jack Russell Terrer but outside Lakeland Terrier, Smooth Fox Terrier and Wire Fox Terrier clade	M	NA	NA
+UnknownBreed02	UNKNOWN - Marked Border Collie but clusters outside Toy Spaniel clade	F	NA	NA
+UnknownBreed03	UNKNOWN - Marked Portuguese Pointer and clusters with Dogue De Bordeaux	F	NA	NA
+UnknownBreed04	UNKNOWN - Marked Bassett Hound but clusters with Xiasi/Chongqing dogs outside of the Chow Chow clade	F	NA	NA
+UnknownBreed05	UNKNOWN - Marked Australian Terrier and clusters with Clumber Spaniels - Possible Mixed Breed	M	NA	NA
+UnknownBreed07	UNKNOWN - Marked Dogue De Bordeaux but doesn't cluster completely, possible mixed breed 	F	NA	NA
+UnknownBreed10	UNKNOWN - Marked Cavalier King Charles Spaniel but clusters outside Toy Spaniel clade	F	NA	NA
+UnknownBreed11	UNKNOWN - Marked Australian Shepherd but clusters with Australian Cattle Dog	F	NA	NA
+UnknownBreed12	UNKNOWN - Marked Unknown clusters near Great Pyrenees	M	NA	NA
+UnknownBreed13	UNKNOWN - Marked Unknown clusters near German Shepherd Dog	M	NA	NA
+WGS-76N	UNKNOWN - Marked Unknown breed but clusters with American Staffordshire Terrier	F	NA	NA
+AF14-170_S13	UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	M	NA	NA
+AF14-259_S12	UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	M	NA	NA
+AF14-260_S7	UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	F	NA	NA
+AF14-296_S9	UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	M	NA	NA
+AF14-297_S10	UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	M	NA	NA
+AF15-019_S2	UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	M	NA	NA
+AF15-074_S4	UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	M	NA	NA
+AF15-098_S11	UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	M	NA	NA
+NA13-359_S6	UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	M	NA	NA
+NA14-125_S8	UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	M	NA	NA
+NA14-126_S5	UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	F	NA	NA
+BAN00143	UNKNOWN - Marked Yorkshire Terrier but clusters with Silky Terrier	F	NA	NA
+IndigenousDogVietnam01	Vietnamese Indigenous Dog	M	NA	NA
+IndigenousDogVietnam02	Vietnamese Indigenous Dog	M	NA	NA
+IndigenousDogVietnam03	Vietnamese Indigenous Dog	M	NA	NA
+IndigenousDogVietnam04	Vietnamese Indigenous Dog	M	NA	NA
+IndigenousDogVietnam05	Vietnamese Indigenous Dog	F	NA	NA
+VillDog_Australia01	Village Dog - Aboriginal Camp Dog	F	NA	NA
+VillDog_Borneo01	Village Dog - Borneo	M	NA	NA
+VillDog_Borneo02	Village Dog - Borneo	F	NA	NA
+VillDog_Borneo03	Village Dog - Borneo	M	NA	NA
+VillDog_China09	Village Dog - China	F	NA	NA
+VillDog_China01	Village Dog - China	F	NA	NA
+VillDog_China02	Village Dog - China	F	NA	NA
+VillDog_China03	Village Dog - China	F	NA	NA
+VillDog_China04	Village Dog - China	F	NA	NA
+VillDog_China05	Village Dog - China	M	NA	NA
+VillDog_China06	Village Dog - China	M	NA	NA
+VillDog_China07	Village Dog - China	F	NA	NA
+VillDog_China08	Village Dog - China	F	NA	NA
+VillDog_China20	Village Dog - China	M	NA	NA
+VillDog_China21	Village Dog - China	M	NA	NA
+VillDog_China22	Village Dog - China	F	NA	NA
+VillDog_China23	Village Dog - China	M	NA	NA
+VillDog_China24	Village Dog - China	F	NA	NA
+VillDog_China25	Village Dog - China	F	NA	NA
+VillDog_China26	Village Dog - China	M	NA	NA
+VillDog_China27	Village Dog - China	M	NA	NA
+VillDog_China28	Village Dog - China	F	NA	NA
+VillDog_China29	Village Dog - China	F	NA	NA
+VillDog_China30	Village Dog - China	M	NA	NA
+VillDog_China31	Village Dog - China	M	NA	NA
+VillDog_China32	Village Dog - China	F	NA	NA
+VillDog_China33	Village Dog - China	F	NA	NA
+VillDog_China34	Village Dog - China	F	NA	NA
+VillDog_China35	Village Dog - China	F	NA	NA
+VillDog_China36	Village Dog - China	F	NA	NA
+VillDog_China37	Village Dog - China	M	NA	NA
+VillDog_China38	Village Dog - China	M	NA	NA
+VillDog_China39	Village Dog - China	M	NA	NA
+VillDog_China40	Village Dog - China	F	NA	NA
+VillDog_China41	Village Dog - China	F	NA	NA
+VillDog_China42	Village Dog - China	F	NA	NA
+VillDog_China43	Village Dog - China	F	NA	NA
+VillDog_China44	Village Dog - China	F	NA	NA
+VillDog_China45	Village Dog - China	F	NA	NA
+VillDog_China46	Village Dog - China	M	NA	NA
+VillDog_China47	Village Dog - China	M	NA	NA
+VillDog_China48	Village Dog - China	F	NA	NA
+VillDog_China49	Village Dog - China	M	NA	NA
+VillDog_China50	Village Dog - China	M	NA	NA
+VillDog_China51	Village Dog - China	M	NA	NA
+VillDog_China52	Village Dog - China	F	NA	NA
+VillDog_Egypt01	Village Dog - Egypt	M	NA	NA
+VillDog_Egypt02	Village Dog - Egypt	M	NA	NA
+VillDog_India01	Village Dog - India	M	NA	NA
+VillDog_India02	Village Dog - India	M	NA	NA
+VillDog_India03	Village Dog - India	M	NA	NA
+VillDog_India04	Village Dog - India	M	NA	NA
+VillDog_India05	Village Dog - India	F	NA	NA
+VillDog_Lebanon01	Village Dog - Lebanon	M	NA	NA
+VillDog_Lebanon02	Village Dog - Lebanon	M	NA	NA
+VillDog_Lebanon03	Village Dog - Lebanon	F	NA	NA
+VillDog_Namibia01	Village Dog - Namibia	M	NA	NA
+VillDog_Namibia02	Village Dog - Namibia	F	NA	NA
+VillDog_Namibia03	Village Dog - Namibia	M	NA	NA
+VillDog_PapuaNG01	Village Dog - Papua New Guinea	F	NA	NA
+VillDog_PapuaNG02	Village Dog - Papua New Guinea	F	NA	NA
+VillDog_PapuaNG03	Village Dog - Papua New Guinea	M	NA	NA
+PT49	Village Dog - Portugal	M	NA	NA
+VillDog_Portugal01	Village Dog - Portugal	F	NA	NA
+VillDog_Portugal02	Village Dog - Portugal	M	NA	NA
+VillDog_Qatar01	Village Dog - Qatar	F	NA	NA
+VillDog_Qatar02	Village Dog - Qatar	M	NA	NA
+VillDog_Africa01	Village Dog - Sub-Saharan Africa	F	NA	NA
+VillDog_Taiwan01	Village Dog - Taiwan	F	NA	NA
+VillDog_Vietnam01	Village Dog - Vietnam	F	NA	NA
+VillDog_Vietnam02	Village Dog - Vietnam	F	NA	NA
+VillDog_Vietnam03	Village Dog - Vietnam	M	NA	NA
+VillDog_Vietnam04	Village Dog - Vietnam	F	NA	NA
+VillDog_Vietnam05	Village Dog - Vietnam	M	NA	NA
+VillDog_Vietnam06	Village Dog - Vietnam	M	NA	NA
+Vizsla01	Vizsla	F	1	1
+WE006	Weimaraner	F	1	1
+WestHighlandWhiteTerr01	West Highland White Terrier	F	NA	NA
+WestHighlandWhiteTerr02	West Highland White Terrier	F	NA	2
+WestHighlandWhiteTerr03	West Highland White Terrier	M	NA	2
+WestHighlandWhiteTerr04	West Highland White Terrier	F	NA	NA
+WestHighlandWhiteTerr05	West Highland White Terrier	F	NA	NA
+WestHighlandWhiteTerr06	West Highland White Terrier	F	NA	2
+WestHighlandWhiteTerr08	West Highland White Terrier	F	NA	NA
+WestHighlandWhiteTerr09	West Highland White Terrier	F	NA	NA
+WW174	West Highland White Terrier	F	NA	NA
+WW362	West Highland White Terrier	M	NA	2
+WW558	West Highland White Terrier	F	NA	NA
+Whippet01	Whippet	M	NA	NA
+AlaskanWolf	Wolf	F	NA	NA
+AlgonquinWolf13467	Wolf	M	NA	NA
+AlgonquinWolf13470	Wolf	F	NA	NA
+QuebecWolf	Wolf	F	NA	NA
+WO001_895	Wolf	F	NA	NA
+WO002_732	Wolf	M	NA	NA
+WO003_636	Wolf	F	NA	NA
+Wolf40	Wolf	F	NA	NA
+Wolf41	Wolf	M	NA	NA
+Wolf42	Wolf	F	NA	NA
+XiasiDog01	Xiasi Dog	M	NA	NA
+MexicanHairless01	Xoloitzcuintli	M	1	1
+Xoloitzcuintli01	Xoloitzcuintli	M	1	1
+BAN00315	Yorkshire Terrier	M	NA	NA
+PER00449	Yorkshire Terrier	F	NA	NA
+BAN00032	Yorkshire Terrier	F	NA	NA
+BAN00041	Yorkshire Terrier	M	1	1
+BAN00079	Yorkshire Terrier	M	NA	NA
+BAN00127	Yorkshire Terrier	F	NA	NA
+BAN00133	Yorkshire Terrier	M	NA	NA
+BAN00136	Yorkshire Terrier	M	NA	NA
+BAN00150	Yorkshire Terrier	F	NA	NA
+BAN00183	Yorkshire Terrier	F	NA	NA
+BAN00235	Yorkshire Terrier	M	NA	NA
+BAN00283	Yorkshire Terrier	M	NA	NA
+BAN00289	Yorkshire Terrier	M	NA	NA
+BAN00368	Yorkshire Terrier	M	NA	NA
+BAN00380	Yorkshire Terrier	M	NA	NA
+BAN00437	Yorkshire Terrier	F	NA	NA
+BAN00449	Yorkshire Terrier	M	NA	NA
+BAN00461	Yorkshire Terrier	M	NA	NA
+PER00016	Yorkshire Terrier	F	NA	NA
+PER00018	Yorkshire Terrier	M	NA	NA
+PER00025	Yorkshire Terrier	M	NA	NA
+PER00061	Yorkshire Terrier	F	NA	NA
+PER00064	Yorkshire Terrier	F	NA	NA
+PER00075	Yorkshire Terrier	F	1	1
+PER00107	Yorkshire Terrier	M	NA	NA
+PER00138	Yorkshire Terrier	M	NA	NA
+PER00142	Yorkshire Terrier	M	NA	NA
+PER00144	Yorkshire Terrier	M	NA	NA
+PER00152	Yorkshire Terrier	F	NA	NA
+PER00204	Yorkshire Terrier	F	1	1
+PER00226	Yorkshire Terrier	M	NA	NA
+PER00259	Yorkshire Terrier	F	NA	NA
+PER00274	Yorkshire Terrier	M	NA	NA
+PER00313	Yorkshire Terrier	M	NA	NA
+PER00314	Yorkshire Terrier	F	NA	NA
+PER00321	Yorkshire Terrier	M	NA	NA
+PER00324	Yorkshire Terrier	F	NA	NA
+PER00327	Yorkshire Terrier	M	NA	NA
+PER00344	Yorkshire Terrier	M	NA	NA
+PER00361	Yorkshire Terrier	M	NA	NA
+PER00393	Yorkshire Terrier	F	NA	NA
+PER00394	Yorkshire Terrier	M	NA	NA
+PER00408	Yorkshire Terrier	M	NA	NA
+PER00409	Yorkshire Terrier	F	NA	NA
+PER00425	Yorkshire Terrier	M	NA	NA
+PER00429	Yorkshire Terrier	M	NA	NA
+PER00438	Yorkshire Terrier	M	NA	NA
+PER00454	Yorkshire Terrier	M	NA	NA
+PER00462	Yorkshire Terrier	M	NA	NA
+PER00465	Yorkshire Terrier	M	NA	NA
+PER00481	Yorkshire Terrier	M	NA	NA
+PER00484	Yorkshire Terrier	F	NA	NA
+PER00550	Yorkshire Terrier	M	NA	NA
+PER00594	Yorkshire Terrier	F	NA	NA
+PER00602	Yorkshire Terrier	M	NA	NA
+PER00605	Yorkshire Terrier	M	NA	NA
+PER00606	Yorkshire Terrier	M	NA	NA
+PER00607	Yorkshire Terrier	M	NA	NA
+PER00622	Yorkshire Terrier	M	NA	NA
+PER00626	Yorkshire Terrier	M	NA	NA
+PER00640	Yorkshire Terrier	M	NA	NA
+PER00642	Yorkshire Terrier	F	NA	NA
+PER00646	Yorkshire Terrier	F	NA	NA
+PER00650	Yorkshire Terrier	M	NA	NA
+PER00658	Yorkshire Terrier	M	NA	NA
+PER00738	Yorkshire Terrier	M	NA	NA
+PER00739	Yorkshire Terrier	F	NA	NA
+PER00747	Yorkshire Terrier	F	NA	NA
+PER00750	Yorkshire Terrier	M	NA	NA
+PER00758	Yorkshire Terrier	F	NA	NA
+PER00777	Yorkshire Terrier	M	NA	NA
+PER00806	Yorkshire Terrier	M	NA	NA
+PER00816	Yorkshire Terrier	M	NA	NA
+YorkshireTerrier01	Yorkshire Terrier	M	NA	NA
+YorkshireTerrier02	Yorkshire Terrier	M	1	1
